@@ -1,14 +1,15 @@
-
+import Home from "./pages/Home";
+import Login from "./pages/Login";
+import Register from "./pages/Register";
+import "./style.scss"
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        
-        <h1>Hello world!</h1>
-        
-      </header>
-    </div>
+
+    //<Register />
+    //<Login />
+    <Home />
+
   );
 }
 
