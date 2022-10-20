@@ -4,7 +4,8 @@ import { getStorage } from "firebase/storage";
 import {getFirestore} from 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDpYWX74CFgQq0c2jK3hmab3VZX-JR8DnI",
+  //put your api key here 
+  apiKey: "xxxxxxxxxxxxxxxxxxxxxxxxx",
   authDomain: "ichat-140bf.firebaseapp.com",
   projectId: "ichat-140bf",
   storageBucket: "ichat-140bf.appspot.com",
